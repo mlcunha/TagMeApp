@@ -6,8 +6,8 @@ app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/public'));
 
-app.get('/', function(res, req) {
-	res.render('./home', { title: 'WineTag - The Wine World in Your Hand'});
+app.get('/', function(req, res) {
+	res.render('home', { title: 'WineTag - The Wine World in Your Hand'});
 });
 
 app.listen(app.get('port'), function() {
