@@ -10,7 +10,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://tagmeapp.herokuapp.com/Menu4.ipa</string>
+						<string>https://tagmeapp.herokuapp.com/Menu5.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -32,9 +32,9 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>br.com.winetag.carta.v4</string>
+					<string>br.com.winetag.carta.v5</string>
 					<key>bundle-version</key>
-					<string>4.1.0</string>
+					<string>4.1.1</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
