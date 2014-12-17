@@ -1,13 +1,14 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.2",
+  "name": "tagmeapp",
+  "version": "0.0.1",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "~4.9.x"
+    "express": "~4.9.x",
+    "ejs": "1.0.0"
   },
   "engines": {
     "node": "0.10.x"
