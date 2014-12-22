@@ -1,6 +1,6 @@
 {
   "name": "TagMeApp",
-  "description": "Page to Download Aoo",
+  "description": "Page to Download App",
   "repository": "https://github.com/mlcunha/TagMeApp.git",
   "logo": "http://tagmeapp.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"]
