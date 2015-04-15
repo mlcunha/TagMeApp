@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.winetag.com.br/control/carta/download/topten/appicon.png</string>
+					<string>https://tagmeapp.herokuapp.com/appicon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.winetag.com.br/control/carta/download/topten/Default-Portrait.png</string>
+					<string>https://tagmeapp.herokuapp.com/Default-Portrait.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>br.com.winetag.expovinis.topten.v1</string>
+				<string>br.com.tagme.topten.v1</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
