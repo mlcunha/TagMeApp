@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.1">
 	<dict>
@@ -32,13 +33,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>br.com.winetag.carta.v5</string>
+					<string>br.com.winetag.carta.v6</string>
 					<key>bundle-version</key>
 					<string>4.2.1</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>Menu</string>
+					<string>TagMenu</string>
 				</dict>
 			</dict>
 		</array>
