@@ -1,0 +1,15 @@
+/**
+ * Appcelerator Titanium
+ * this is a generated file - DO NOT EDIT
+ */
+
+"create_account" = "Criar uma conta";
+"jump" = "Pular Etapa";
+"sign_in" = "Já tenho uma conta";
+"or" = "ou";
+"back" = "Voltar";
+"resetPasswordText" = "Se você esqueceu sua senha,\n podemos lhe enviar um email para resetá-la.";
+"send_email" = "Enviar Email";
+"forgot_password" = "Esqueceu sua senha?";
+"type_password" = "Digite sua senha";
+"retype_password" = "Re-digite sua senha";
